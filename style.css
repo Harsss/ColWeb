@@ -1,0 +1,106 @@
+.conta{
+display: flex;
+ flex-direction: row; 
+ /* border: solid black;  */
+margin-top: 35px;
+margin-left: 12px;
+margin-right: 128px;
+justify-content: space-evenly;
+
+
+}
+#steplogo{
+
+    margin-left: 2rem;
+    margin-top: 0.2rem;
+}
+.navbar{
+    max-height:5rem;
+}
+.navcon{
+margin-left:22rem ;
+
+font-size: 1rem;
+display: flex;
+margin-right: 0rem;
+width:100%;
+/* border:solid black; */
+justify-content: space-between;
+
+}
+.navbar-brand{
+
+margin-bottom: 0.1rem;
+padding-bottom: 1rem;
+}
+.card-text{
+
+color: rgb(4, 4, 250);
+
+
+}
+#cd1{
+
+
+   
+background-color: rgb(241, 250, 187);
+border-radius: 8px;
+
+
+}
+#cd2{
+
+
+border-radius: 8px;
+       
+}
+
+
+.cont2{
+    display: flex;
+     flex-direction: row; 
+    /* border: solid black; */
+    margin-top: 4px;
+    margin-left: 7rem;
+    margin-right: 14rem;
+    justify-content: space-between; 
+    box-sizing: border-box;
+    flex-direction:row ;
+   
+}
+.bgclr{
+    background-color: #002130!important;
+}
+#cd4{
+ padding-right: 2rem;
+ padding-left: 2rem;   
+}
+#cd5{
+ padding-right: 5rem;
+ padding-left: 5rem;   
+ 
+}
+#cd3{
+ padding-right: 3rem;
+ padding-left: 3rem;   
+}
+.bg-cus{
+
+background-color: #ffecec !important ;
+}
+.bg-cus2{
+
+    background-color: rgb(232, 223, 233)!important ;
+    }
+    
+.bg-cus3{
+
+    background-color: #dcefce!important ;
+    }
+    .card h4{
+letter-spacing: 1px;
+    }
+    .crdtxt{
+  color: rgb(224, 15, 15);
+  font-size: 13px;
+  } 
